@@ -76,8 +76,4 @@ This is a static HTML file with no build step. Open `index.html` directly in any
 ---
 
 ## License
-
 MIT
-5. **"Commit changes"** pe click karo
-
-Bas! Ab tumhari repository professional dikhegi with a proper README on top.
